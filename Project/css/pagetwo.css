@@ -1,0 +1,74 @@
+*{
+    background-color: gray;
+}
+
+#flagImg{
+    float:right;
+}
+
+#birdImg{
+    float: left;
+}
+
+#Title{
+    text-align: center;
+    text-decoration: dotted;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+#navigation{
+    text-align: center;
+}
+
+.button{
+    background-color: black;
+    border:none;
+    color: whitesmoke;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#StoneMaiden{ 
+    font-size:12px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    font-style:italic;
+    
+    color:black;
+    background-color:black;
+    border:3px solid black;
+
+    margin:10px, 2px;
+    padding: 4px;
+    float: center;
+    width: 23%;
+
+    text-align: center;
+}
+
+#AltunHa{ 
+    color:black;
+    background-color:black;
+    border:3px solid black;
+
+    margin:10px, 2px;
+    padding: 4px;
+    width:23%;
+}
+
+p{
+    text-align:left;
+}
+
+
+.responsive{
+        width:100%;
+        height:auto;
+}
